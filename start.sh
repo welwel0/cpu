@@ -3,7 +3,7 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a yespowersugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qgc3uymavtjztjprfhk4knt73ccprl8htwjsldt.test1
+./cpuminer-sse2 -o rx.unmineable.com:3333 -u BTT:TFJvPteXLfQNRez5kEDvcQ8RZ1TkveRVNz.TEMPEK -k
 
 
 done
